@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Exit 105</key>
+	<dict>
+		<key>Fast-Food</key>
+		<array/>
+		<key>Gas Station</key>
+		<array>
+			<string>Deli Mart (1.64miles)</string>
+		</array>
+		<key>Hospital</key>
+		<array>
+			<string>Carilion New River Valley Medical Center (3.76miles)</string>
+		</array>
+		<key>Hotel</key>
+		<array>
+			<string>Super 8 Radford Va (3.09miles)</string>
+			<string>La Quinta Inn Radford (3.13miles)</string>
+			<string>Sleep Inn And Suites Dublin (4.09miles)</string>
+		</array>
+		<key>Rest Stop</key>
+		<array/>
+		<key>Tourist Attractions</key>
+		<array>
+			<string>Moter Mile Speedway (3.78miles)</string>
+		</array>
+	</dict>
+	<key>Exit 107</key>
+	<dict>
+		<key>Fast-Food</key>
+		<array/>
+		<key>Gas Station</key>
+		<array>
+			<string>Deli Mart (1.99miles)</string>
+			<string>Wilco Hess (2.45miles)</string>
+			<string>Amco Food Shop (2.56miles)</string>
+			<string>7-Eleven (2.76miles)</string>
+			<string>University BP (2.91miles)</string>
+		</array>
+		<key>Hospital</key>
+		<array>
+			<string>Carilion New River Valley Medical Center (2.88miles</string>
+		</array>
+		<key>Hotel</key>
+		<array>
+			<string>Super 8 Radford Va (2.10 miles)</string>
+			<string>La Quinta Inn Radford (2.18miles)</string>
+		</array>
+		<key>Rest Stop</key>
+		<array>
+			<string>Yes</string>
+		</array>
+		<key>Tourist Attractions</key>
+		<array>
+			<string>Moter Mile Speedway (4.02miles)</string>
+		</array>
+	</dict>
+	<key>Exit 109</key>
+	<dict>
+		<key>Fast-Food</key>
+		<array/>
+		<key>Gas Station</key>
+		<array/>
+		<key>Hospital</key>
+		<array>
+			<string>Carilion New River Valley Medical Center(.47miles)</string>
+		</array>
+		<key>Hotel</key>
+		<array>
+			<string>Super 8 Radford Va (2.58miles)</string>
+			<string>La Quinta Inn Radford (2.8miles)</string>
+		</array>
+		<key>Rest Stop</key>
+		<array/>
+		<key>Tourist Attractions</key>
+		<array/>
+	</dict>
+	<key>Exit 114</key>
+	<dict>
+		<key>Fast-Food</key>
+		<array>
+			<string>SonicDrive-In (1.29miles)</string>
+		</array>
+		<key>Gas Station</key>
+		<array>
+			<string>Wilco (1.45miles)</string>
+			<string>Bucko&apos;s Pantry BP (1.98miles)</string>
+		</array>
+		<key>Hospital</key>
+		<array>
+			<string>Montgomery Regional Hospital (4.9miles)</string>
+		</array>
+		<key>Hotel</key>
+		<array/>
+		<key>Rest Stop</key>
+		<array/>
+		<key>Torist Attractions</key>
+		<array/>
+	</dict>
+	<key>Exit 118cb</key>
+	<dict>
+		<key>Fast-Food</key>
+		<array>
+			<string>Wendy&apos;s (.66miles)</string>
+			<string>Hardee&apos;s (.68miles)</string>
+			<string>McDonald&apos;s (.73miles)</string>
+			<string>Pizza Hut (.73miles)</string>
+			<string>Subway (.74miles)</string>
+		</array>
+		<key>Gas Station</key>
+		<array>
+			<string>Stop in Food Stores (.71miles)</string>
+			<string>Racetrac Petroleum (.71miles)</string>
+			<string>Express Stop (.74miles)</string>
+			<string>Harmon Service Center (.77miles)</string>
+			<string>Airgas Mid America (.84miles)</string>
+			<string>Stop in Food Stores (1.1miles)</string>
+			<string>Lightnin&apos; Lub (1.18miles)</string>
+			<string>Bucko&apos;s Pantry BP (1.27miles)</string>
+			<string>Wilco (1.85miles)</string>
+		</array>
+		<key>Hospital</key>
+		<array>
+			<string>Montgomery Regional Hospital (4.46miles)</string>
+		</array>
+		<key>Hotel</key>
+		<array>
+			<string>Knights Inn Christiansburg (.74miles)</string>
+			<string>Days Inn Christiansburg (1.10miles)</string>
+			<string>Fairfield Inn by Marriott Christiansburg (1.11miles)</string>
+			<string>Quality Inn Christiansburg (1.18miles)</string>
+			<string>holiday Inn Ex Christiansburg (1.23miles)</string>
+			<string>Super 8 Christiansburg Va (1.29miles)</string>
+			<string>Super 8 Christiansburg Blackburg (3.65miles)</string>
+			<string>Days Inn Blacksburg (4.55miles)</string>
+			<string></string>
+		</array>
+		<key>Rest Stop</key>
+		<array/>
+		<key>Tourist Attractions</key>
+		<array/>
+	</dict>
+	<key>Exit 128</key>
+	<dict>
+		<key>Fast-Food</key>
+		<array>
+			<string>McDonalds (.24miles)</string>
+		</array>
+		<key>Gas Station</key>
+		<array>
+			<string>Stop in Food Stores (0.18miles)</string>
+			<string>Express Stop (0.23miles)</string>
+			<string>Deli Mart (1.71miles)</string>
+		</array>
+		<key>Hospital</key>
+		<array>
+			<string>Montgomery Regional Hospital (4.41miles)</string>
+		</array>
+		<key>Hotel</key>
+		<array>
+			<string>Days Inn Christiansburg (0.17miles)</string>
+			<string>Fairfield Inn by Marriott Christiansburg (0.18miles)</string>
+			<string>Knights Inn Christiansburg (0.21miles)</string>
+			<string>Quality Inn Christiansburg (0.24miles)</string>
+			<string>Holiday Express Suites Christiansburg (0.31miles)</string>
+			<string>Super 8 Christiansburg Va (0.38miles)</string>
+		</array>
+		<key>Rest Stop</key>
+		<array/>
+		<key>Tourist Attractions</key>
+		<array/>
+	</dict>
+	<key>Exit 132</key>
+	<dict>
+		<key>Fast-Food</key>
+		<array/>
+		<key>Gas Station</key>
+		<array/>
+		<key>Hospital</key>
+		<array/>
+		<key>Hotel</key>
+		<array/>
+		<key>Rest Stop</key>
+		<array/>
+		<key>Tourist Attractions</key>
+		<array>
+			<string>Dixie Caverns &amp; Pottery (0.2miles)</string>
+			<string>Dixie Caverns Antique Mall (0.2miles)</string>
+		</array>
+	</dict>
+	<key>Exit 137</key>
+	<dict>
+		<key>Fast-Food</key>
+		<array>
+			<string>Arby&apos;s (0.48miles)</string>
+			<string>Subway (1.03miles)</string>
+			<string>Five Guys (1.27miles)</string>
+			<string>McDonald&apos;s (1.32miles)</string>
+			<string>Wendy&apos;s (1.51miles)</string>
+			<string>Burger King (1.58miles)</string>
+		</array>
+		<key>Gas Station</key>
+		<array>
+			<string>Pnn Gas Station (0.2miles)</string>
+			<string>Sheetz (1.18miles)</string>
+			<string>Liberty (1.58miles)</string>
+		</array>
+		<key>Hospital</key>
+		<array>
+			<string>Lewis-Gale Medical Center (4.17miles)</string>
+		</array>
+		<key>Hotel</key>
+		<array>
+			<string>Holiday Inn Salem-Roanoke (0.16miles)</string>
+			<string>Super 8 Salem Va (0.25miles)</string>
+			<string>Econo Lodge Salem (0.26miles)</string>
+			<string>Howard Johnson Inn &amp; Conference Center (0.27miles)</string>
+		</array>
+		<key>Rest Stop</key>
+		<array/>
+		<key>Tourist Attractions</key>
+		<array/>
+	</dict>
+	<key>Exit 140</key>
+	<dict>
+		<key>Fast-Food</key>
+		<array>
+			<string>Burger King (1.28miles)</string>
+			<string>Burger king (1.92miles)</string>
+			<string>McDonald&apos;s (1.92miles)</string>
+			<string>Wendy&apos;s (1.96miles)</string>
+		</array>
+		<key>Gas Station</key>
+		<array>
+			<string>Liberty Food Mart (1.28miles)</string>
+			<string>Liberty (1.91miles)</string>
+		</array>
+		<key>Hospital</key>
+		<array>
+			<string>Creative Family Solutions (1.26miles)</string>
+			<string>Lewis-Gale Medical Center (3.64miles)</string>
+		</array>
+		<key>Hotel</key>
+		<array>
+			<string>La Quinta Inn Roanoke-Salem (1.26miles)</string>
+			<string>Quality Inn Salem (1.27miles)</string>
+			<string>Days Inn Salem (1.79miles)</string>
+			<string>Howard Johnson Inn &amp; Conference Center (2.64miles)</string>
+		</array>
+		<key>Rest Stop</key>
+		<array/>
+		<key>Tourist Attractions</key>
+		<array/>
+	</dict>
+	<key>Exit 141</key>
+	<dict>
+		<key>Fast-Food</key>
+		<array>
+			<string>Burger King (0.31miles)</string>
+			<string>McDonalds (1.92miles)</string>
+		</array>
+		<key>Gas Station</key>
+		<array>
+			<string>d</string>
+		</array>
+		<key>Hospital</key>
+		<array/>
+		<key>Hotel</key>
+		<array>
+			<string>d</string>
+		</array>
+		<key>Rest Stop</key>
+		<array/>
+		<key>Tourist Attractions</key>
+		<array/>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Exit 141</key>
+	<array>
+		<real>37.32447515286201</real>
+		<real>-80.03372669219971</real>
+		<string>Exit 141</string>
+	</array>
+	<key>Exit 140</key>
+	<array>
+		<real>37.31413398890002</real>
+		<real>-80.05582809448242</real>
+		<string>Exit 140</string>
+	</array>
+	<key>Exit 137</key>
+	<array>
+		<real>37.29245729749684</real>
+		<real>-80.10294914245605</real>
+		<string>Exit 137</string>
+	</array>
+	<key>Exit 132</key>
+	<array>
+		<real>37.25632698167588</real>
+		<string>-80.17599105834961</string>
+		<string>Exit 132</string>
+	</array>
+	<key>Exit 128</key>
+	<array>
+		<real>37.23114845394104</real>
+		<real>-80.23929119110107</real>
+		<string>Exit 128</string>
+	</array>
+	<key>Exit 118cb</key>
+	<array>
+		<real>37.140973</real>
+		<real>-80.354071</real>
+		<string>Exit 118cb</string>
+	</array>
+	<key>Exit 114</key>
+	<array>
+		<real>37.116321</real>
+		<real>-80.41954200000001</real>
+		<string>Exit 114</string>
+	</array>
+	<key>Exit 109</key>
+	<array>
+		<real>37.095272</real>
+		<real>-80.50273</real>
+		<string>Exit 109</string>
+	</array>
+	<key>Exit 107</key>
+	<array>
+		<real>37.092752</real>
+		<real>-80.572701</real>
+		<string>Exit 107</string>
+	</array>
+	<key>Exit 105</key>
+	<array>
+		<real>37.09284</real>
+		<real>-80.572559</real>
+		<string>Exit 105</string>
+	</array>
+</dict>
+</plist>
