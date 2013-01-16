@@ -22,5 +22,7 @@ electronic parking sensors to feed an XML database for usuage in the application
 
 
 
-This application was created for the iPhone 4/4S/5 using the iOS 6 SDK.  
+This application was created for the iPhone 4/4S/5 using the iOS 6 SDK.
+
+Artwork and design elements were created by Lauren Gibboney and Olivia Erickson.  
 
